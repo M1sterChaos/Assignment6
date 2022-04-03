@@ -1,3 +1,8 @@
+/*
+ * (Austin Buck)
+ * (Assignment 6)
+ * (Class that inherits from the enemy class)
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

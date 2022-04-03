@@ -1,3 +1,8 @@
+/*
+ * (Austin Buck)
+ * (Assignment 6)
+ * (An item in the inventory)
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

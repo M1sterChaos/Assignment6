@@ -1,3 +1,8 @@
+/*
+ * (Austin Buck)
+ * (Assignment 6)
+ * (Manages the game and loads the levels)
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

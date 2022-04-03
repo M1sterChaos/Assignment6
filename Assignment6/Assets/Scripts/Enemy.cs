@@ -1,3 +1,9 @@
+/*
+ * (Austin Buck)
+ * (Assignment 6)
+ * (Manages the enemy, super class)
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

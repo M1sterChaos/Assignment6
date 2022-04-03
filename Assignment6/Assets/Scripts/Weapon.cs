@@ -1,3 +1,8 @@
+/*
+ * (Austin Buck)
+ * (Assignment 6)
+ * (Super class for the weapon type)
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,3 +1,8 @@
+/*
+ * (Austin Buck)
+ * (Assignment 6)
+ * (manages the inventory)
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

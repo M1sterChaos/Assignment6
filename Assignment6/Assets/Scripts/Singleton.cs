@@ -1,3 +1,8 @@
+/*
+ * (Austin Buck)
+ * (Assignment 6)
+ * (Singleton generic class)
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
